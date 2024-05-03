@@ -138,7 +138,7 @@
 
 
 
-// Exercicio 1 trelllo
+// Exercicio 2 trelllo
 function getUserInfo() {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
